@@ -163,9 +163,13 @@ The game window should open.
 ---
 ## 🎮 Controls
 ⬆️ : Move Up
+
 ⬇️ : Move Down
+
 ⬅️ : Move Left
+
 ➡️ : Move Right
+
 Close Window: Exit game
 
 Move the hunter toward the food item shown on the character.
