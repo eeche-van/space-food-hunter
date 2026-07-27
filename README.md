@@ -41,9 +41,8 @@ Decrement score by 1 for wrong food (will return yuk sound effect)
 </p>
 
 <video src="assets/food-scoring-with-sound.mp4" controls width="600"></video>
-<p align="center">
-  <em>Food Scoring with Sound Effects</em>
-</p>
+
+If you'd like to hear how it sounds like, go check this out (with sound effects) [Gameplay Video](assets/food-scoring-with-sound.mp4).
 
 ## 🛠️ Tech Stack
 Language: C 
