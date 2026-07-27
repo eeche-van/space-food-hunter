@@ -31,15 +31,20 @@ After experimenting with SDL2 graphics, I wanted to challenge myself by creating
 
 ### Collecting the Correct Food & the Wrong Food
 <p align="center">
-  <img src="assets/food-scoring.gif" width="700">
+  <img src="assets/food-scoring.gif" width="600">
 </p>
 
 ## 🛠️ Tech Stack
 Language: C 
+
 Graphics: SDL2 
+
 Image Loading: SDL2_image 
+
 Audio: SDL2_mixer 
+
 Text Rendering: SDL2_ttf 
+
 IDE: Visual Studio Code 
 
 ## ⚙️ Quick Start
