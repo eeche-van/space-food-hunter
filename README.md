@@ -31,6 +31,7 @@ After experimenting with SDL2 graphics, I wanted to challenge myself by creating
 
 ### Collecting the Correct Food & the Wrong Food
 Increment score by 1 for correct food (will return yum sound effect)
+
 Decrement score by 1 for wrong food (will return yuk sound effect)
 <p align="center">
   <img src="assets/food-scoring.gif" width="600">
@@ -39,7 +40,7 @@ Decrement score by 1 for wrong food (will return yuk sound effect)
   <em>Game Scoring Logic Preview</em>
 </p>
 
-<video src="assets/food-scoring-with-sound.mp4" controls width="700"></video>
+<video src="assets/food-scoring-with-sound.mp4" controls width="600"></video>
 <p align="center">
   <em>Food Scoring with Sound Effects</em>
 </p>
