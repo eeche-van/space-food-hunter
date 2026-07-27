@@ -30,16 +30,31 @@ After experimenting with SDL2 graphics, I wanted to challenge myself by creating
 </p>
 
 ### Collecting the Correct Food & the Wrong Food
+Increment score by 1 for correct food (will return yum sound effect)
+
+Decrement score by 1 for wrong food (will return yuk sound effect)
 <p align="center">
-  <img src="assets/food-scoring.gif" width="700">
+  <img src="assets/food-scoring.gif" width="600">
 </p>
+<p align="center">
+  <em>Game Scoring Logic Preview</em>
+</p>
+
+<video src="assets/food-scoring-with-sound.mp4" controls width="600"></video>
+
+If you'd like to hear how it sounds like, go check this out (with sound effects) [Gameplay Video](assets/food-scoring-with-sound.mp4).
 
 ## 🛠️ Tech Stack
 Language: C 
+
 Graphics: SDL2 
+
 Image Loading: SDL2_image 
+
 Audio: SDL2_mixer 
+
 Text Rendering: SDL2_ttf 
+
 IDE: Visual Studio Code 
 
 ## ⚙️ Quick Start
